@@ -1,10 +1,10 @@
-#  DSA Preparation 
+# DSA Preparation
 
-Hi, I'm Lakshay Verma   
+Hi, I'm Lakshay Verma  
 Final Year CSE Student | Placement Focused | Target: Product-Based Companies  
 
-This repository contains my structured DSA preparation based on strivers sheet
-I am consistently solving problems, revising concepts, and improving problem-solving skills.
+This repository contains my structured DSA preparation based on Striver’s DSA Sheet.  
+I am consistently solving problems, revising concepts, and improving my problem-solving ability through daily practice.
 
 ---
 
@@ -19,54 +19,64 @@ I am consistently solving problems, revising concepts, and improving problem-sol
 
 ---
 
-###  Arrays (Completed)
+### Arrays (Completed)
 - Easy Problems ✅
 - Medium Problems ✅
 - Selected Hard Problems ✅
-- Prefix Sum
-- Two Pointer Technique
-- Kadane’s Algorithm
-- Sliding Window
-- Hashing Concepts
+- Prefix Sum ✅
+- Two Pointer Technique ✅
+- Kadane’s Algorithm ✅
+- Sliding Window ✅
+- Hashing Concepts ✅
 
 ---
 
-## 🔜 Currently Working On
-- Advanced Array Problems (Hard++)
-- Stack
-- Queue
-- Next Greater Element
-- Monotonic Stack Concepts
+### Binary Search
+
+#### 1D Binary Search (Completed)
+- Basic Binary Search ✅
+- First and Last Occurrence ✅
+- Lower Bound / Upper Bound ✅
+- Search in Rotated Sorted Array ✅
+- Peak Element Type Problems ✅
+
+
+
+## 🔁 Current Focus
+- Binary Search on Answers
+- Regular problem revision
+- Strengthening pattern recognition
+- Improving optimized solution thinking
 
 ---
+
 
 ## 🗓 Update Schedule
 I update this repository every:
 - 📅 Monday
 - 📅 Friday
 
-Progress will include:
-- New problems solved
-- Optimized solutions
-- Notes & patterns learned
+Progress updates include:
+- Newly solved problems
+- Optimized approaches
+- Important patterns and notes
 
 ---
 
 ## 🎯 Goal
-- Master DSA
+- Master Data Structures & Algorithms
 - Crack top product-based companies
-- Strengthen logical and analytical thinking
+- Build strong logical and analytical thinking
 
 ---
-
 
 ## 🛠 Language Used
 - C++
 
 ---
 
-## 📌 Why This Repo?
-This repository is my accountability system to stay consistent and disciplined in DSA preparation.
+## 📌 Why This Repository?
+
+This repository serves as my **accountability system** to maintain discipline and consistency in DSA preparation while tracking my improvement over time.
 
 ---
-
