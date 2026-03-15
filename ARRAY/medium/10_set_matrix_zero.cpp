@@ -38,7 +38,7 @@ for(int i=0; i<n; i++){
 
 void better_sol(vector<vector<int>>& arr){ // O(n^2) and space O(n+M)
     int n= arr.size();
-    int m = arr[0].size();
+    int m = arr[0].size()
     int row_mark[n] ={0};
     int col_mark[m] ={0};
 
@@ -60,9 +60,6 @@ void better_sol(vector<vector<int>>& arr){ // O(n^2) and space O(n+M)
     }
 
 }
-
-
-
 
 
 void display(vector<vector<int>>& arr){
