@@ -1,82 +1,116 @@
-# DSA Preparation
+# 🚀 DSA Preparation Journey
 
-Hi, I'm Lakshay Verma  
-Final Year CSE Student | Placement Focused | Target: Product-Based Companies  
+Hi, I'm **Lakshay Verma**  
+🎓 Final Year CSE Student  
+🎯 Placement Focused | Target: Top Product-Based Companies  
 
-This repository contains my structured DSA preparation based on Striver’s DSA Sheet.  
-I am consistently solving problems, revising concepts, and improving my problem-solving ability through daily practice.
+This repository contains my **structured Data Structures & Algorithms preparation** based on **Striver’s DSA Sheet**.
+
+I am consistently solving problems, revising concepts, and improving my **logical thinking, pattern recognition, and optimized solution approach** through daily practice.
 
 ---
 
-## 📌 Current Progress
+## 📊 Preparation Progress
 
-### Basics Covered
+### ✅ Foundations Covered
 - C++ Fundamentals
-- STL (Vector, Map, Set, Unordered Map)
-- Time & Space Complexity
+- STL (Vector, Map, Set, Unordered Map, Stack, Queue)
+- Time & Space Complexity Analysis
 - Recursion Basics
-- Basic Sorting Algorithms
+- Basic Sorting Algorithms (Bubble, Selection, Insertion, Merge Intro)
 
 ---
 
-### Arrays (Completed)
-- Easy Problems ✅
-- Medium Problems ✅
-- Selected Hard Problems ✅
-- Prefix Sum ✅
-- Two Pointer Technique ✅
-- Kadane’s Algorithm ✅
-- Sliding Window ✅
-- Hashing Concepts ✅
+### ✅ Arrays (Completed)
+- Easy Problems
+- Medium Problems
+- Selected Hard Problems
+- Prefix Sum Technique
+- Two Pointer Technique
+- Kadane’s Algorithm
+- Sliding Window Technique
+- Hashing Concepts
+- Subarray Pattern Problems
+- Rearrangement & Rotation Problems
 
 ---
 
-### Binary Search
+### ✅ Binary Search (Completed)
 
-#### 1D Binary Search (Completed)
-- Basic Binary Search ✅
-- First and Last Occurrence ✅
-- Lower Bound / Upper Bound ✅
-- Search in Rotated Sorted Array ✅
-- Peak Element Type Problems ✅
+#### 🔹 1D Binary Search
+- Basic Binary Search
+- First and Last Occurrence
+- Count Occurrences
+- Lower Bound / Upper Bound
+- Search in Rotated Sorted Array
+- Find Minimum in Rotated Array
+- Peak Element Problems
 
+#### 🔹 Binary Search on Answers (In Progress → Strong Practice Done)
+- Square Root Problems
+- Koko Eating Bananas Type
+- Minimum Days Problems
+- Capacity Based Problems
 
+---
+
+### ✅ Strings (Easy Level Completed – Striver Sheet)
+- Remove Outer Parentheses
+- Reverse Words in String
+- Largest Odd Number in String
+- Longest Common Prefix
+- Isomorphic Strings
+- Rotate String
+- Valid Anagram (Hashing + Optimal Approach)
+- Frequency Based Problems
+- Basic String Traversal & Manipulation Patterns
+
+---
 
 ## 🔁 Current Focus
-- Binary Search on Answers
-- Regular problem revision
-- Strengthening pattern recognition
-- Improving optimized solution thinking
+- String Medium Problems
+- Binary Search on Answers Mastery
+- Pattern Recognition Improvement
+- Writing Optimal Solutions Without Editorial
+- Revision of Previously Solved Problems
 
 ---
 
+## 🗓 Repository Update Schedule
+I update this repository **twice every week**:
 
-## 🗓 Update Schedule
-I update this repository every:
-- 📅 Monday
-- 📅 Friday
+- 📅 Monday → New Problems Solved
+- 📅 Friday → Revision + Optimized Approaches + Notes
 
-Progress updates include:
-- Newly solved problems
-- Optimized approaches
-- Important patterns and notes
+Updates include:
+- Clean C++ Solutions
+- Brute vs Optimal Approach
+- Important Observations
+- Problem Patterns
 
 ---
 
-## 🎯 Goal
+## 🎯 Preparation Goals
+
 - Master Data Structures & Algorithms
-- Crack top product-based companies
-- Build strong logical and analytical thinking
+- Strengthen Problem Solving Ability
+- Crack Top Product-Based Companies
+- Build Strong Analytical & Logical Thinking
+- Improve Coding Speed & Accuracy
 
 ---
 
 ## 🛠 Language Used
-- C++
+- **C++ (Primary Language for DSA)**
 
 ---
 
-## 📌 Why This Repository?
+## ⭐ Purpose of This Repository
 
-This repository serves as my **accountability system** to maintain discipline and consistency in DSA preparation while tracking my improvement over time.
+This repository acts as my **accountability system** to maintain discipline and consistency in DSA preparation.
 
----
+It helps me:
+- Track my progress
+- Revise patterns quickly
+- Stay consistent during placement preparation
+- Showcase my problem-solving journey
