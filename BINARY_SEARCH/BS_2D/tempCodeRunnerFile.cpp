@@ -1,0 +1,1 @@
+    high = max(high , mat[i][m-1]);
